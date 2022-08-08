@@ -27,3 +27,9 @@ table {
     color: darkslateblue;
     font-size: 20px;
  }
+ .para{
+    text-align: start ;
+    color: darkslateblue;
+    font-size: 20px;
+    margin: 15px;
+ }
