@@ -13,7 +13,7 @@ table {
     color: darkslateblue;
   }
   tr:nth-child(even) {
-    background-color: azure;
+    background-color: #dddddd;
   }
  .mainHeading{
     text-align: center;
