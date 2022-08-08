@@ -1,0 +1,14 @@
+table {
+    border: 1px solid gray;
+    width:100%
+  }
+  td{
+    border: 1px solid gray;
+  }
+  .heading{
+    text-align: center;
+    color: darkslateblue;
+  }
+  tr:nth-child(even) {
+    background-color: gainsboro;
+  }
