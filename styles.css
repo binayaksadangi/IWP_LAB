@@ -1,10 +1,11 @@
 table {
     border: 1px solid gray;
     width:100%;
-    margin-bottom:20px
+    margin-bottom:20px;
+    padding:10px;
 
   }
-  td{
+  td,th{
     border: 1px solid gray;
   }
   .heading{
@@ -12,5 +13,15 @@ table {
     color: darkslateblue;
   }
   tr:nth-child(even) {
-    background-color: gainsboro;
+    background-color: azure;
   }
+ .mainHeading{
+    text-align: center;
+    color: darkslateblue;
+    font-size: 30px;
+ }
+ .footer{
+    text-align: center;
+    color: darkslateblue;
+    font-size: 20px;
+ }
