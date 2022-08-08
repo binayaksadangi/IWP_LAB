@@ -3,15 +3,17 @@ table {
     width:100%;
     margin-bottom:20px;
     padding:10px;
-
+    border-spacing: 10px;
   }
   td,th{
     border: 1px solid gray;
+    padding-left: 10px;
   }
   .heading{
     text-align: center;
     color: darkslateblue;
   }
+
   tr:nth-child(even) {
     background-color: #dddddd;
   }
